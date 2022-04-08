@@ -1,10 +1,10 @@
 Olá!! 👋
 
-Sou técnica em edificações pelo IFPE e Estudante de engenharia civil na UFPE.
+Sou técnica em edificações pelo IFPE e Estudante de Análise e desenvolvimento de sistemas.
 
-Desenvolvi interesse pela área de TI e venho aprofundando meus estudos, apesar de ter tido contado com programação na linguagem C na faculdade, não tive tempo de estudar tanto por conta de todas as outras cadeiras do curso.
+Estou em fase de transição de carreira.
 
-- 🌱Atualmete estudando: JavaScrip, TypeScript, HTML e CSS
+- 🌱Atualmete estudando: JavaScrip, HTML e CSS.
 - 😄 Pronomes: ela/dela
 
 <div align="center">
