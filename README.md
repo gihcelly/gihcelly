@@ -8,7 +8,7 @@ Estou em fase de transição de carreira.
 - 😄 Pronomes: ela/dela
 
 <a href="https://github.com/gihcelly/github-readme-stats"><img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=gihcelly&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>
-<a href="https://github.com/gicelly/github-readme-stats"><img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gihcelly&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/gicelly/github-readme-stats"><img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gihcelly&layout=compact&theme=buefy&hide_border=true&card_width=240" /></a>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="gih-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
