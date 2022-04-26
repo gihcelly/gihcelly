@@ -8,9 +8,12 @@ Estou em fase de transição de carreira.
 - 😄 Pronomes: ela/dela
 
 <div align="center">
-  <a href="https://github.com/gihcelly">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gihcelly&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gihcelly&layout=compact&langs_count=7&theme=nightowl&card_width=250"/>
+  <a href="https://github.com/gihcelly/github-readme-stats">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=gihcelly&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/gihcelly/convoychat">
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gihcelly&layout=compact&langs_count=7&theme=nightowl&card_width=250"/>
+  </a>
 </div>
   
 <div style="display: inline_block"><br>
