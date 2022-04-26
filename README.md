@@ -7,14 +7,12 @@ Estou em fase de transição de carreira.
 - 🌱Atualmete estudando: JavaScrip, HTML e CSS.
 - 😄 Pronomes: ela/dela
 
-<div align="center">
   <a href="https://github.com/gihcelly/github-readme-stats">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=gihcelly&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/gihcelly/convoychat">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gihcelly&layout=compact&langs_count=7&theme=nightowl&card_width=250"/>
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gihcelly&layout=compact&langs_count=7&theme=nightowl&card"/>
   </a>
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="gih-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
