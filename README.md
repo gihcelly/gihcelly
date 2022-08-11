@@ -4,7 +4,7 @@ Sou técnica em edificações pelo IFPE e Estudante de Análise e desenvolviment
 
 Estou em fase de transição de carreira.
 
-- 🌱Atualmete estudando: JavaScrip, React Js e React Native.
+- 🌱Atualmete estudando: Javascrip, React Js e React Native.
 - 😄 Pronomes: ela/dela
 
 <a href="https://github.com/gihcelly/github-readme-stats"><img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=gihcelly&show_icons=true&include_all_commits=true&theme=highcontrast" alt="Anurag's github stats" /></a>
