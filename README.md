@@ -2,7 +2,7 @@ Olá!! 👋
 
 Sou desenvolvedora front-end e estudante de Análise e desenvolvimento de sistemas.
 
-- 🌱Atualmete estudando: Javascript, Typescript, React Js e React Native.
+- 🌱Atualmete estudando: Javascript, Typescript, React Js e JAVA.
 - 😄 Pronomes: ela/dela
 
 <div style="display: inline_block"><br>
